@@ -5,14 +5,14 @@ body{
     margin: 0 auto;
     
 }
-header{
+.bg-header{
     background-color: #2d25a0;
     
 }
 nav{
     display: flex;
     justify-content: space-between;  
-    margin-top: 42px;
+   
    
 }
 
@@ -20,7 +20,7 @@ nav{
     max-width: 1160px;
     margin: 0 auto;
     align-items: center;
-    padding-top: 40px;
+    
     
 }
 .navigation{
